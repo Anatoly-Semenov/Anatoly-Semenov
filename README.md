@@ -59,7 +59,7 @@ A C++-based API Gateway inspired by KrakenD.
 
 ### 📬 Contact Me
 
-- 💬 Telegram: [@yourhandle](https://t.me/anatoly_developer)  
+- 💬 Telegram: [@anatoly_developer](https://t.me/anatoly_developer)  
 
 ---
 
