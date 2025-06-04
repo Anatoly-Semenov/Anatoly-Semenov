@@ -53,8 +53,6 @@ A C++-based API Gateway inspired by KrakenD.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=default" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoly-Semenov&layout=compact&theme=default" alt="langs" />
 </p>
 
 ---
