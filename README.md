@@ -14,9 +14,6 @@
 
 ---
 
-![img](https://github.com/user-attachments/assets/e384ec27-4230-427a-b3d3-9f795b471ae2)
-
-
 ### 🧰 Tech Stack
 
 #### 💻 Programming Languages
@@ -67,3 +64,4 @@ A C++-based API Gateway inspired by KrakenD.
 ---
 
 > 📌 Open to collaboration, open-source contributions, and interesting projects in backend, security, and systems programming.
+![img](https://github.com/user-attachments/assets/e384ec27-4230-427a-b3d3-9f795b471ae2)
