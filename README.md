@@ -73,8 +73,8 @@ Comprehensive document management platform leveraging NestJS, REST, gRPC, and Ka
 ### GitHub Stats
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=gruvbox" />
-  <img height="140" src="https://streak-stats.demolab.com/?user=Anatoly-Semenov&theme=gruvbox" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=gruvbox" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=Anatoly-Semenov&theme=gruvbox" />
 </p>
 
 ---
