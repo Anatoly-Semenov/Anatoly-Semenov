@@ -1,16 +1,29 @@
-<h1 align="center">Hi there, I'm Anatoly 👋</h1>
+<div align="center">
 
-<p align="center">
-  Backend Engineer | Security | Microservices | Go / Node.js / C++ / Kubernetes
+<pre>
+ █████╗ ███╗   ██╗ █████╗ ████████╗ ██████╗ ██╗     ██╗   ██╗    ██████╗ ███████╗██╗   ██╗
+██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██╔═══██╗██║     ██║   ██║    ██╔══██╗██╔════╝╚██╗ ██╔╝
+███████║██╔██╗ ██║███████║   ██║   ██║   ██║██║     ██║   ██║    ██║  ██║█████╗   ╚████╔╝ 
+██╔══██║██║╚██╗██║██╔══██║   ██║   ██║   ██║██║     ██║   ██║    ██║  ██║██╔══╝    ╚██╔╝  
+██║  ██║██║ ╚████║██║  ██║   ██║   ╚██████╔╝███████╗╚██████╔╝    ██████╔╝███████╗   ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝     ╚═════╝ ╚══════╝   ╚═╝   
+</pre>
+
+<p>
+  <b>Backend Engineer</b> · <b>Security Architect</b> · <b>System Design</b><br/>
+  <code>Go</code> · <code>Node.js</code> · <code>C++</code> · <code>Kubernetes</code> · <code>Microservices</code>
 </p>
+
+</div>
+
 
 ---
 
-### About Me
+### 🧠 About Me
 
-Backend developer experienced in building scalable, secure, and production-ready systems.  
-I specialize in designing and implementing microservices, API gateways, and access control systems.  
-Passionate about network security, low-level development, and distributed architecture.
+🔹 Backend developer focused on building **scalable**, **secure**, and **production-ready** systems.  
+🔹 Specialize in **microservice architectures**, **access control**, **network security**, and **API gateways**.  
+🔹 Passionate about **low-level programming**, **distributed systems**, and **system observability**.
 
 ---
 
@@ -35,34 +48,51 @@ Passionate about network security, low-level development, and distributed archit
 
 ### Featured Projects
 
-#### [cpp-security-gateway](https://github.com/Anatoly-Semenov/cpp-security-gateway)  
-A secure gRPC proxy written in C++ with DDoS protection, rate limiting, and IP blacklist support.  
-✔ Includes Redis integration, a REST API for managing blocked IPs, and works in Kubernetes.
+#### [go-ws-gateway](https://github.com/Anatoly-Semenov/go-ws-gateway)
+High-performance WebSocket gateway written in Go for real-time messaging and event streaming.  
+✔ Implements secure connection handling, load balancing, and supports custom protocols.  
+✔ Designed for scalability and seamless integration with microservices.
 
-#### [docs-monorepo](https://github.com/Anatoly-Semenov/docs-monorepo)  
-A document management system built with Nest.js using REST, gRPC, and Kafka.  
-✔ Supports microservices, authorization, queues, and Docker orchestration.
+#### [KrakenD-CPP](https://github.com/Anatoly-Semenov/KrakenD-CPP) / [cpp-security-gateway](https://github.com/Anatoly-Semenov/cpp-security-gateway)
+C++ API Gateway and secure gRPC proxy featuring dynamic routing, request validation, and DDoS protection.  
+✔ Includes Redis-based IP blacklist, rate limiting, and REST API management.  
+✔ Built for high throughput in Kubernetes environments.
 
-#### [KrakenD-CPP](https://github.com/Anatoly-Semenov/KrakenD-CPP)  
-A C++-based API Gateway inspired by KrakenD.  
-✔ Handles dynamic proxying, routing, and request validation.
+#### [keycloak-user-service](https://github.com/Anatoly-Semenov/keycloak-user-service)
+User management microservice integrated with Keycloak for authentication and authorization workflows.  
+✔ Automates user provisioning, role assignment, and supports audit logging.  
+✔ Enables seamless identity and access control in distributed systems.
+
+#### [docs-monorepo](https://github.com/Anatoly-Semenov/docs-monorepo) / [docs-protobufs](https://github.com/Anatoly-Semenov/docs-protobufs)
+Comprehensive document management platform leveraging NestJS, REST, gRPC, and Kafka for robust microservices orchestration.  
+✔ Features fine-grained authorization, queue-driven processing, and Docker-based deployment.  
+✔ Includes protobuf definitions for efficient service communication.
 
 ---
 
 ### GitHub Stats
 
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=gruvbox" />)
+
+[//]: # (  <img src="https://streak-stats.demolab.com/?user=Anatoly-Semenov&theme=gruvbox" />)
+
+[//]: # (</p>)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=default" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anatoly-Semenov&show_icons=true&theme=gruvbox" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Anatoly-Semenov&theme=gruvbox" />
 </p>
 
 ---
 
 ### Contact Me
 
-- 💬 Telegram: [@anatoly_developer](https://t.me/anatoly_developer)  
+- 💬 Telegram: [@anatoly_developer](https://t.me/anatoly_developer)
 
 ---
 
 > Open to collaboration, open-source contributions, and interesting projects in backend, security, and systems programming.
- 
+
 ![img](https://github.com/user-attachments/assets/e384ec27-4230-427a-b3d3-9f795b471ae2)
